@@ -14,4 +14,4 @@ Please fork this repository and then issue a Pull Request for review.
 
 # Copyright
 
-Some copyright text
+Some copyright text. All rights reserved
